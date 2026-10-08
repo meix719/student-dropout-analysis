@@ -47,7 +47,7 @@ These are illustrative scenarios, not realized savings or measured intervention 
 
 ## Project Files
 - [Final Report](Final_Report_Group_3.pdf)
-- [Final Presentation](Final_Presentation_Group_3.pptx)
+- [Final Presentation](Final_Presentation_Group_3.pdf)
 
 ## Limitations
 - Classification recall was low, leaving many dropout cases unidentified.
